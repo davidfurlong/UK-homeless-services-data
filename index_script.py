@@ -1,0 +1,1 @@
+grep -oE "details\.asp\?id\=[a-zA-Z]*[0-9]*|Advice\ service|Accommodation|Floating\ Support" full.txt > indexes.txt
